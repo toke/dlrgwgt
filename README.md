@@ -1,9 +1,7 @@
 # dlrgwgt
 Umbrella Repository
 
-Sammelt Informationen über das System.
-
-[WIKI](https://github.com/toke/dlrgwgt/wiki)
+Sammelt Informationen über das System. Auch im [WIKI](https://github.com/toke/dlrgwgt/wiki).
 
 ## Weitere Quellen
 
